@@ -4,6 +4,8 @@ This is my first taste of making a fullstack application. This is an app for 21 
 
 ![21 Savage](public/pic.jpg)
 
+Demo:https://rakimdevcraig.github.io/simpleFullStackApp/
+
 How It's Made:
 Tech used: HTML, CSS, Javascript, Node, Express, Mongo, Embedded Javascript
 
